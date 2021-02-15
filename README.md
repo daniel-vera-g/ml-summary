@@ -2,6 +2,8 @@
 
 > Summary for the machine learning class at the University of Applied Sciences Karlsruhe
 
+> NOTE this summary is archived...for probable future work, work was saved in the WIP Branch.
+
 ## Structure
 
 1. Each topic is documented in a jupyter notebook and numbered in order
